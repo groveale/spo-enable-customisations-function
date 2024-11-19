@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "w",
+    "FUNCTIONS_WORKER_RUNTIME_VERSION": "7.4",
+    "FUNCTIONS_WORKER_RUNTIME": "powershell",
+    "ClientId": "7f7ab5b0-bd2f-49d0-b45a-9eca92750d5f",
+    "TenantId": "75e67881-b174-484b-9d30-c581c7ebc177",
+    "Thumbprint": "",
+    "AdminUrl": "https://groverale-admin.sharepoint.com",
+    "ManagementSitetUrl": "https://groverale.sharepoint.com/sites/spo-enable-customizations",
+    "GetSitesWithCustomizations": "true",
+    "WEBSITE_LOAD_CERTIFICATES": ""
+  }
+}
